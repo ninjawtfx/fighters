@@ -1,0 +1,14 @@
+{
+  "name": "twitch-fighters",
+  "version": "0.0.0",
+  "description": "TwitchFighters",
+  "main": "app.js",
+  "author": {
+    "name": "aleks"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
